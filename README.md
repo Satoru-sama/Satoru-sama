@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HiRo HaMaDa 💫✌️
 - 👀 I’m interested in Anime
-- 🌱 I’m currently learning Robotics
+- 🤖 I’m currently learning Robotics
 - 📫 How to reach me serpents429@gmail.com
 
 <!---
