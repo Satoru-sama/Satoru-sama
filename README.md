@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @HIROHAMADA22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @HiRo HaMaDa 💫✌️
+- 👀 I’m interested in Anime
+- 🌱 I’m currently learning Robotics
+- 📫 How to reach me serpents429@gmail.com
 
 <!---
-HIROHAMADA22/HIROHAMADA22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HiRoHamDa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
